@@ -1,14 +1,8 @@
 <h1 align="center">RahulGouda!</h1>  
 <h3 align="center">
-  <b><span style="color: #A4C639; animation: fadeIn 2s infinite;">Data Analyst!</span></b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=2000&color=A4C639&center=true&vCenter=true&width=300&height=40&lines=Data+Analyst!;Dreamer!">
 </h3>
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-</style>
+
 
 ---
 
