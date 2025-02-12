@@ -1,15 +1,17 @@
-<h1 align="center">RahulGouda!</h1>  
+<h1 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bhagwa_Dhwaj.svg/1024px-Bhagwa_Dhwaj.svg.png" height="40px"/>
+  Rahul Gouda!
+</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=2000&color=A4C639&center=true&vCenter=true&width=300&height=40&lines=Data+Analyst!;Dreamer!">
 </h3>
-
 
 ---
 
 ### 📱 Socials  
 <p align="center">
   <a href="https://github.com/Rahulmariyappagoudar"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
-  <a href="mailto:your.rahul.k.mariyappagoudar@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
+  <a href="mailto:rahul.k.mariyappagoudar@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rahulm14052003/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
@@ -30,6 +32,13 @@
 
 ---
 
+### 💻 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulmariyappagoudar&layout=compact&theme=dark&langs_count=6"/>
+</p>
+
+---
+
 ### 🔥 Profile Visits  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rahulmariyappagoudar&color=green&style=flat-square"/>
@@ -44,4 +53,4 @@
 
 ---
 
-### 👋 Adiós, Visitor!
+### 👋 Adiós, Visitor!  
