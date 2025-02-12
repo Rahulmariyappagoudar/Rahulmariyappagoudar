@@ -1,9 +1,24 @@
-<h1 align="center">Rahulgouda 🚩</h1>
+<h1 align="center">Rahulgouda!🚩</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=2000&color=A4C639&center=true&vCenter=true&width=300&height=40&lines=Data+Analyst!;Dreamer!">
 </h3>
 
 ---
+
+### 🙏 Believer of God  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=2000&color=FFA500&center=true&vCenter=true&width=350&height=50&lines=🚩+Shree+Ram+🚩;🚩+Jai+Hanuman+🚩" alt="Shree Ram & Hanuman"/>
+</p>
+
+---
+
+### 📱 Socials  
+<p align="center">
+  <a href="https://github.com/Rahulmariyappagoudar"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
+  <a href="mailto:rahul.k.mariyappagoudar@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/rahulm14052003/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
 
 ### 📱 Socials  
 <p align="center">
