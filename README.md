@@ -1,27 +1,44 @@
-# Hi 👋, I'm Rahul Reddy  
-### Passionate About Data, Analytics, and AI 
-
-![Profile views](https://komarev.com/ghpvc/?username=Rahulmariyappagoudar&label=Profile%20views&color=0e75b6&style=flat)  
-
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)  
-[![Gmail](https://img.shields.io/badge/Gmail-YourEmail-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)  
-
-## 🏆 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulmariyappagoudar&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulmariyappagoudar&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulmariyappagoudar&layout=compact&theme=radical)  
-
-## 🏅 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rahulmariyappagoudar&theme=darkhub)  
-
-
-
-## 🎯 Skills  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-118AB2?style=flat-square&logo=jupyter&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)  
+<h1 align="center">RahulGouda!</h1>  
+<h3 align="center"><b><span style="color: #A4C639">Data Analyst!</span></b></h3>  
 
 ---
 
+### 📱 Socials  
+<p align="center">
+  <a href="https://github.com/Rahulmariyappagoudar"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
+  <a href="mailto:your.rahul.k.mariyappagoudar@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/rahulm14052003/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulmariyappagoudar&show_icons=true&theme=dark" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulmariyappagoudar&theme=dark" height="150px"/>
+</p>
+
+---
+
+### 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahulmariyappagoudar&theme=onedark"/>
+</p>
+
+---
+
+### 🔥 Profile Visits  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahulmariyappagoudar&color=green&style=flat-square"/>
+</p>
+
+---
+
+### 🌍 Fun GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="600px"/>
+</p>
+
+---
+
+### 👋 Adiós, Visitor!
