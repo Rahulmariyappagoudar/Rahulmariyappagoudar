@@ -51,10 +51,6 @@
 
 ---
 
-<--<h2 align="center">🌍 Fun GIF</h2> -->
-<--<p align="center"> -->
-<--  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="600px"/> -->
-<-- </p>  -->
 
 ---
 
