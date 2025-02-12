@@ -38,10 +38,11 @@
 
 ### 🔥 Profile Visits  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahulmariyappagoudar&color=green&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Rahulmariyappagoudar&color=orange&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
+
 
 ### 🌍 Fun GIF  
 <p align="center">
