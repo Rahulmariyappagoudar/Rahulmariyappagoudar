@@ -1,7 +1,7 @@
 <h1 align="center">Rahulgouda!</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=2000&color=A4C639&center=true&vCenter=true&width=300&height=40&lines=Data+Analyst!;Aiml+Grad">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=2000&color=A4C639&center=true&vCenter=true&width=300&height=40&lines=Data+Analyst!;Aiml+Graduate">
 </h3>
 
 ---
