@@ -1,18 +1,19 @@
 <h1 align="center">Rahulgouda!</h1>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=25&duration=2000&color=A4C639&center=true&vCenter=true&width=300&height=40&lines=Data+Analyst!;Dreamer!">
 </h3>
 
 ---
 
-### Gods Plan baby...! 
+<h2 align="center">God's Plan, Baby...! ✨</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=2000&color=FFA500&center=true&vCenter=true&width=350&height=50&lines=🚩+Shree+Ram+🚩;🚩+Jai+Hanuman+🚩" alt="Shree Ram & Hanuman"/>
 </p>
 
 ---
 
-### 📱 Socials  
+<h2 align="center">📱 Socials</h2>
 <p align="center">
   <a href="https://github.com/Rahulmariyappagoudar"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
   <a href="mailto:rahul.k.mariyappagoudar@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
@@ -21,7 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahulmariyappagoudar&show_icons=true&theme=dark" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulmariyappagoudar&theme=dark" height="150px"/>
@@ -29,33 +30,32 @@
 
 ---
 
-### 🏆 Achievements  
+<h2 align="center">🏆 Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rahulmariyappagoudar&theme=onedark"/>
 </p>
 
 ---
 
-### 💻 Most Used Languages  
+<h2 align="center">💻 Most Used Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulmariyappagoudar&layout=compact&theme=dark&langs_count=6"/>
 </p>
 
 ---
 
-### 🔥 Profile Visits  
+<h2 align="center">🔥 Profile Visits 📌</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahulmariyappagoudar&color=orange&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://profile-counter.glitch.me/Rahulmariyappagoudar/count.svg" />
 </p>
 
 ---
 
-
-### 🌍 Fun GIF  
+<h2 align="center">🌍 Fun GIF</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="600px"/>
 </p>
 
 ---
 
-### 👋 Adiós, Visitor!  
+<h2 align="center">"See You Again! 👋"</h2>
