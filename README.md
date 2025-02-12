@@ -1,5 +1,14 @@
 <h1 align="center">RahulGouda!</h1>  
-<h3 align="center"><b><span style="color: #A4C639">Data Analyst!</span></b></h3>  
+<h3 align="center">
+  <b><span style="color: #A4C639; animation: fadeIn 2s infinite;">Data Analyst!</span></b>
+</h3>
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
 
 ---
 
