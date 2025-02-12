@@ -48,10 +48,6 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Rahulmariyappagoudar/count.svg" />
 </p>
-
----
-
-
 ---
 
 <h2 align="center">"See You Again! 👋"</h2>
