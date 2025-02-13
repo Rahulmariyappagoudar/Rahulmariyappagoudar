@@ -24,7 +24,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahulmariyappagoudar&show_icons=true&theme=dark" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulmariyappagoudar&show_icons=true&theme=dark&cache_seconds=1800" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulmariyappagoudar&theme=dark" height="150px"/>
 </p>
 
@@ -39,7 +39,7 @@
 
 <h2 align="center">💻 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulmariyappagoudar&layout=compact&theme=dark&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulmariyappagoudar&layout=compact&theme=dark&langs_count=6&cache_seconds=1800"/>
 </p>
 
 ---
@@ -48,6 +48,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Rahulmariyappagoudar/count.svg" />
 </p>
+
 ---
 
 <h2 align="center">"See You Again! 👋"</h2>
