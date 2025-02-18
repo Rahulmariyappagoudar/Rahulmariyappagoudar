@@ -18,6 +18,7 @@
   <a href="https://github.com/Rahulmariyappagoudar"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
   <a href="mailto:rahul.k.mariyappagoudar@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rahulm14052003/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://portfolio-chi-two-24.vercel.app/"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/></a> <!-- Portfolio link added -->
 </p>
 
 ---
